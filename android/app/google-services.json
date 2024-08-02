@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "763179560737",
+    "project_id": "pharmacydemo-23314",
+    "storage_bucket": "pharmacydemo-23314.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763179560737:android:705c1c12079dff4fc01860",
+        "android_client_info": {
+          "package_name": "com.example.pharmaconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTSc9reYUHoUQtqXSN8ki9GW6OVTjGpXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
